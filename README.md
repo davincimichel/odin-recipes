@@ -1,1 +1,1 @@
-# odin-recipes
+Hello World! I am a 34 year old carpenter who's body is on the decline. I have always had an interest in computers dating back to my early teenage years. I started doing TOP to see if I am capable of coding and web development. Today I am learning how to create my own repo and edit it inside of my terminal. I will then attempt to upload the project without any descrepencies.
